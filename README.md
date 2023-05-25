@@ -441,9 +441,9 @@ top: 106px;
 background: url(logo.jpg);
 ```
 ## OUTPUT:
-![output](./out91.png)
-![output](./out92.png)
-![output](./out93.png)
+![output](out91.png)
+![output](out92.png)
+![output](out93.png)
 
 ## Result:
 
